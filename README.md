@@ -13,11 +13,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/asish-kumar-barik-the-encoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="asish-kumar-barik-the-encoder" height="30" width="40" /></a>
 <a href="https://twitter.com/asishhh_sonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asishhh_sonu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/asish kumar barik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asish kumar barik" height="30" width="40" /></a>
+<a href="https://codesandbox.com/asishh_sonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="asishh_sonu" height="30" width="40" /></a>
 <a href="https://kaggle.com/asish kumar barik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="asish kumar barik" height="30" width="40" /></a>
 <a href="https://instagram.com/asishh_sonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asishh_sonu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/asish kumar barik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="asish kumar barik" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/asishh_sonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="asishh_sonu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/asishsonu2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="asishsonu2003" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/asishh_sonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asishh_sonu" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/asishsonu2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="asishsonu2003" height="30" width="40" /></a>
 </p>
